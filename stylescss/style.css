@@ -1,0 +1,23 @@
+p {
+     text-align: center;
+     color:rgb(3, 17, 144) 
+}
+.one {
+    text-align: center;
+}
+.education-section {
+color:green;
+}
+.list-style{
+    margin-bottom: 25px;
+   
+}
+.skills{
+    
+    color: #e67e22; 
+    text-transform: uppercase; 
+}
+.project{
+    color: red;
+    
+}
